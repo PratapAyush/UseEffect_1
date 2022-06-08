@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Squats",
+      "isComleted": true
+    },
+    {
+      "id": 2,
+      "text": "Reading",
+      "isComleted": true
+    },
+    {
+      "id": 3,
+      "text": "Benchpress",
+      "isComleted": true
+    },
+    {
+      "text": "Running",
+      "isCompleted": false,
+      "id": 4
+    }
+  ]
+}

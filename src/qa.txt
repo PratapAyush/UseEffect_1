@@ -1,0 +1,16 @@
+-what is react?
+js library used for building ui component
+-virtual DOM?
+memory reperesenation of virtual dom
+-why does react need state management?
+to interact with v-dom
+-hoow can we manage state?
+hooks in react to maange state
+-hooks
+  -useState
+     create and update variable
+
+-what is REST api ?
+representational state transfer to transfer information over internet
+
+
